@@ -1,2 +1,3 @@
-# dcHiCviz
-Visualization for dcHiC files.
+# dcHiC Visualization
+
+Visualization for dcHiC files. 
