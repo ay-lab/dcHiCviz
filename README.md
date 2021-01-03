@@ -23,7 +23,7 @@ RNA-Seq Data
 ChIP Signals - H3K9me3, H3K4me3, H3K4me1, H3K27ac
 ```
 
-Using the search feature, it is easy to explore the following genes: 
+Using the search feature, it is easy to explore the following genes:  
 Notable **mESC**-specific genes include: Dppa2/4, Zpf42   
 Notable **NPC/CN**-specific genes include: Ptn, Ephb1, Dcx, Rmst, Top1 (significant A-compartment change) 
 Notable **control** genes include: Pou5f1, Actb
